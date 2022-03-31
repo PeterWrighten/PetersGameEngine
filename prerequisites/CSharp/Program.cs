@@ -5,7 +5,12 @@ namespace CSharp {
     class Program {
         static void Main(string[] args) {
             int x = 2001;
-            System.Console.WriteLine(x);
+            System.Console.WriteLine(FeetToInches(x));
+        }
+
+        static int FeetToInches(int feet) {
+            int inches = feet * 12;
+            return inches;
         }
     }
 }
