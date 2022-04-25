@@ -7,3 +7,8 @@ My GameEngine implemented by C#.
 - [ ] C# Syntax
 
 # Note
+
+
+
+# Refeerence
+[Game Engine Book](https://github.com/ThisisGame/cpp-game-engine-book)
